@@ -31,4 +31,4 @@ permalink: /about/
 --- 
 
 使用美区ID注册的Apple用户：
-{% include image.html url="/assets/about/MM_Apple.png" description="iOS海外版" link="https://apps.apple.com/us/app/mixin-messenger/id1322324266" %}
+{% include image.html url="/assets/about/MM_apple.png" description="iOS海外版" link="https://apps.apple.com/us/app/mixin-messenger/id1322324266" %}
