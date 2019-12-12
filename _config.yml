@@ -21,8 +21,7 @@
 title: Mixin 101
 email: mixin@gebitang.com
 description: >- # this means to ignore newlines until "baseurl:"
-  非官方：密信CFO的自我修养          
-  Mixin: 156157
+  非官方：密信CPO的自我修养 Mixin: 156157  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mixin.lol" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
