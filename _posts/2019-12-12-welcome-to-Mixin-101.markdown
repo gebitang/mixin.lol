@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to Mixin 101"
 date:   2019-12-12 16:16:16 +0800
 categories: mixin
-permalink: /welcome/
+permalink: /welcome
 ---
 
 分享所有关于Mixin的想法。
