@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-* Do not remove this line (it will not be displayed)
-{:toc}
-
+### 链接下载
 根据情况选择下面的下载链接进行下载安装：
 - [apk直接下载](https://assets.exincdn.com/mixin/android/180301-1.apk)  
 - [应用宝](https://android.myapp.com/myapp/detail.htm?apkName=one.mixin.messenger)  
@@ -17,7 +15,7 @@ permalink: /about/
 1. [Mac桌面版下载](https://newbie.zeromesh.net/mixin-mac.dmg)  
 2. [Windows桌面版下载](https://newbie.zeromesh.net/mixin-windows.exe)  
 
-## 扫码下载
+### 扫码下载
 
 直接扫码下载，或者点击图片跳转到对应的下载地址。
 
