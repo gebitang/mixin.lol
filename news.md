@@ -1,8 +1,6 @@
 ---
-layout: post
-title:  "Mixin产品动态"
-date:   2019-12-13 16:16:16 +0800
-categories: mixin
+layout: page
+title: 新闻
 permalink: /news
 ---
 
@@ -30,5 +28,5 @@ Mixin Messenger（畅聊版）iOS 0.18.2 已更新至 [App Store](https://apps.a
 
 ### Android 版本(0.18.3)
 
-### 桌面版本（0.51）
 
+### 桌面版本（0.51）

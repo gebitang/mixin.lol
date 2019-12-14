@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: 下载
+permalink: /download
 ---
 
 ### 链接下载
@@ -31,6 +31,7 @@ permalink: /about/
 可以访问Google Play的用户：
 {% include image.html url="/assets/about/MM_google.png" description="google paly" link="https://play.google.com/store/apps/details?id=one.mixin.messenger" %}
 
+[exin page](https://download.exin.one/#/) 
 --- 
 ---
 
