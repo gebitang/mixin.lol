@@ -6,7 +6,7 @@ permalink: /download
 
 ### 链接下载
 根据情况选择下面的下载链接进行下载安装：
-- [apk直接下载 by exin.one](https://assets.exincdn.com/mixin/android/180301-1.apk)  
+- [apk直接下载 by exin.one](https://assets.exincdn.com/mixin/android/180400-1.apk)  如果无法下载，请到[exin.one页面](https://download.exin.one/#/?id=android)获取最新版本
 - [应用宝](https://android.myapp.com/myapp/detail.htm?apkName=one.mixin.messenger)  
 - [google play](https://play.google.com/store/apps/details?id=one.mixin.messenger)  
 - [Mixin Messenger（畅聊版）](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019)  
