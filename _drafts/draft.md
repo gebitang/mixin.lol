@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Mixin 101"
-date:   2019-12-12 16:16:16 +0800
+title:  "百字帖"
 categories: mixin
-permalink: /welcome
 ---
+
+每天一百字Mixin练习贴。
 
 Who What Why When Where
 

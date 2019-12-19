@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Mixin：送你一副软猬甲"
+date:   2019-12-12 16:16:16 +0800
+categories: mixin
+permalink: /welcome
+---
+
+>[Long Now Foundation](http://longnow.org/) 万年钟项目  
+[GitHub Arctic Code Vault](https://archiveprogram.github.com/)  开源代码储藏千年计划  
+[The Times 03/Jan/2009 Chancellor on brink of second bailout for banks](https://github.com/bitcoin/bitcoin/blob/master/src/chainparams.cpp#L54)  中本聪的创世区块  
+
+
+送你一副软猬甲，
+
+愿你与世界，**温柔相待**。
+
+保护好自己的**软肋**。
