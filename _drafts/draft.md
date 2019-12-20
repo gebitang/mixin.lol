@@ -99,3 +99,11 @@ WhatsApp、FB Message
 [资产信息](https://mixin.one/snapshots)  
 [旧log日志](https://mixin.one/logs)  
 [XIN](https://mixin.one/xin)
+
+
+---
+
+[节点信息](https://github.com/MixinNetwork/mixin/blob/master/config/nodes.json)
+
+[参考](https://dbarobin.com/2019/02/28/mixin-network-nodes/)  
+>Mixin Network 是一个面向数字资产的闪电网络，采用 BFT-DAG 机制，实现了转账 0 费用、1 秒到账、支付匿名、可无限扩展。基于 POS 共识的 Mixin Network 节点不采取竞选方式，抵押 10000 XIN 并拥有一定技术实力的团队即可运营节点，最多节点数量为 50 个。主网上线后，基于 ERC 20 发行的代币 XIN 不受影响。
