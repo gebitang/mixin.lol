@@ -4,6 +4,7 @@ title:  "Mixin：送你一副软猬甲"
 date:   2019-12-12 16:16:16 +0800
 categories: mixin
 permalink: /welcome
+pinned: true
 ---
 
 >[Long Now Foundation](http://longnow.org/) 万年钟项目  
