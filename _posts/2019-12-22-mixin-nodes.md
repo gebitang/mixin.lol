@@ -1,14 +1,21 @@
 ---
 layout: custom
 title:  "Mixin Nodes Location"
-date:   2019-12-22 16:16:16 +0800
+date:   2019-12-25 09:09:09 +0800
+author: Mixin.lol
 categories: mixin
 permalink: /nodes
 pinned: true
 ---
-根据[源码](https://github.com/MixinNetwork/mixin/blob/master/config/nodes.json)信息，整理了目前已知是**31**个节点的信息。（截止到2019-12-22日）
 
-详细信息如下—— 
+欢迎Mixin上线两周年。
+
+根据[源码nodes.json](https://github.com/MixinNetwork/mixin/blob/master/config/nodes.json)内容，整理了目前Mixin在线运行的**31**个节点信息。（截止到2019-12-25日）
+
+* 
+{:toc}
+
+### 节点列表 
 
 |host|ip|address|
 |---------|---------|---------|
@@ -44,7 +51,7 @@ pinned: true
 |34.83.129.200|34.83.129.200|美国堪萨斯州福恩溪|
 |34.66.213.188|34.66.213.188|美国爱荷华州康瑟尔布拉夫斯|
 
-位置信息：
+### 位置信息：
 
 |location|numbers|
 |---------|---------|
@@ -64,7 +71,7 @@ pinned: true
 
 {% include image.html url="/assets/nodes.png" description="Mixin Nodes"  %}
 
-服务商信息：
+### 服务商：
 
 | 服务商 | 个数 | 提供方 |
 |-------|--------|---------|
@@ -72,7 +79,7 @@ pinned: true
 |cloud.google.com|29|others|
 |阿里云|1|poolin.com|
 
-域名信息：
+### 域名信息：
 
 |domain|numbers|
 |---------|---------|
@@ -97,3 +104,5 @@ pinned: true
 |35.245.207.174|1|
 
 下图使用google map展示了第一个表中的**11**个位置的详细信息，如果你看不到，推荐[AgentNEO](https://agneo.co/?rc=8d50vj3e)这个工具。
+
+### Map on Google
