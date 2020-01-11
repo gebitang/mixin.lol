@@ -37,3 +37,16 @@ WhatsApp、FB Message
 …… 连接人的关系
 
 新IM的困境：如何迁移旧的关系。有人用，有很多人用。
+
+Secure digital assets and messages on Mixin
+We build open source softwares that always put security, privacy and decentralization at first.
+
+考虑一条链上存放的数据的价值有多大。
+
+记录一下线上的价值每周的变化
+
+https://www.hellobtc.com/kp/kc/201904/1624.html
+
+
+硬钱包 VS Mixin方案对比思路
+
