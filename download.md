@@ -4,6 +4,10 @@ title: 下载
 permalink: /download
 ---
 
+安装完成后欢迎使用Mixin扫码与我交流：
+
+{% include image.html url="/assets/about/mixin-156157.png" description="Mixin:156157" link="https://mixin.one/codes/70dfce98-8166-4aa8-bdda-af2b485c4b1a" %}
+
 ### 链接下载
 根据情况选择下面的下载链接进行下载安装：
 - [直接下载Android Apk](https://newbie.zeromesh.net/mixin-android.apk)
