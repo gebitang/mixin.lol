@@ -16,7 +16,9 @@ permalink: /about
 
 >Mixin: 156157
 
-欢迎来Mixin(密信)找我交流，搜索：**156157** 联系我
+欢迎来Mixin(密信)找我交流，搜索：**156157** 或者使用Mixin扫下面的二维码——
+
+{% include image.html url="/assets/about/mixin-156157.png" description="Mixin:156157" link="https://mixin.one/codes/70dfce98-8166-4aa8-bdda-af2b485c4b1a" %}
 
 ---
 
