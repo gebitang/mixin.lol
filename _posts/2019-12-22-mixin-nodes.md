@@ -12,6 +12,9 @@ pinned: true
 
 根据[源码nodes.json](https://github.com/MixinNetwork/mixin/blob/master/config/nodes.json)内容，整理了目前Mixin在线运行的**31**个节点信息。（截止到2019-12-25日）
 
+【主网信息】Mixin Network 第 32 个全节点 2020-01-20 凌晨已正式加入主网
+
+
 * 
 {:toc}
 
