@@ -94,6 +94,7 @@ permalink: /about
 - [资产信息](https://mixin.one/snapshots)  
 - [旧log日志](https://mixin.one/logs)  
 - [XIN](https://mixin.one/xin)
+- [Mixin Network Explorer](https://mixin.network/#/)
 
 
 [节点信息](https://github.com/MixinNetwork/mixin/blob/master/config/nodes.json)
