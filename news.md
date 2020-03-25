@@ -308,6 +308,10 @@ Grin 是首个实现 MimbleWimble 区块链协议的开源软件项目，旨在�
 
 RVN 主要特点是在比特币源码基础上修改增加 X16R 算法防止 ASIC 设备垄断，同时结合以太坊的发币功能。
 
+--- 
+
+- [Mixin snapshots](https://mixin.one/snapshots)
+- [Asset profile repo](https://github.com/MixinNetwork/asset-profile)
 
 - **字母排序**
 
