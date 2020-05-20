@@ -12,7 +12,12 @@ permalink: /news
 本页面会从今天(2019-12-13)开始跟踪整理Mixin各个版本的最新动态。
 
 
-### Android 版本(0.24.0)
+### Android 版本(0.24.8)
+
+Android版本目前比iOS版本更新得快，产品动态机器人最近关于Android版本的更新信息较少。
+
+**2020-05-19** 【版本更新】Mixin Messenger Android 已更新至 0.24.8
+
 
 **2020-04-24** 【版本更新】Mixin Messenger Android 已更新至 0.24.0，最近更新：  
 - 1、支持首页机器人超级入口，功能说明： https://w3c.group/c/1587525954115127
@@ -93,9 +98,13 @@ permalink: /news
 - 2、新增大额转账提醒，默认值 100，设置 - 钱包 - 大额转账确认可自行更改。例如大额转账确认设置的 100 ，当前货币设置的是美元，那大于或等于 100 美元的转账就会出现提醒界面。
 
 
-### iOS 完全版(0.24.5)
+### iOS 完全版(0.24.6)
 
-**2020-05-012**【版本更新】Mixin Messenger 和 Mixin 密信畅聊版 iOS 0.24.5 已更新至 App Store，最近更新内容：  
+**2020-05-18**【版本更新】Mixin Messenger 和 Mixin 密信畅聊版 iOS 0.24.6 已更新至 App Store，最近更新内容：  
+- 1、修复语音电话链接不畅的问题
+- 2、细节调整和小问题修复
+
+**2020-05-12**【版本更新】Mixin Messenger 和 Mixin 密信畅聊版 iOS 0.24.5 已更新至 App Store，最近更新内容：  
 - 1、新的群公告提醒
 - 2、iOS 13 聊天消息支持新的长按菜单样式
 - 3、修复添加贴纸从相册选图模糊的问题
@@ -221,7 +230,7 @@ permalink: /news
 
 ### iOS 畅聊版(0.24.5)
 
-**2020-05-012**【版本更新】Mixin Messenger 和 Mixin 密信畅聊版 iOS 0.24.5 已更新至 App Store，最近更新内容：  
+**2020-05-12**【版本更新】Mixin Messenger 和 Mixin 密信畅聊版 iOS 0.24.5 已更新至 App Store，最近更新内容：  
 
 **2020-05-08**【版本更新】Mixin Messenger 和 Mixin 密信畅聊版 iOS 0.24.4 已更新至 App Store，最近更新内容：  
 
