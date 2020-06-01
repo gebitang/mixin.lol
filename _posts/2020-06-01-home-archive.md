@@ -1,10 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: post
+title:  "白纸黑字百字帖"
+date:   2020-06-01 06:01:00 +0800
+categories: mixin
 ---
 
+* ignore this line 
+{:toc}
 
 >密信（Mixin Message）是一款默认端到端加密的聊天软件。  
 >密信是最好用的区块链钱包。  
@@ -27,3 +29,4 @@ Mixin以聊天软件入手，自带默认的金融属性，这个起手式就很
 为什么在微信之外，还需要试试密信(Mixin)。
 
 今天只讨论Mixin上一个服务提供商：ExinEarn。推荐你看看[为什么用密信之ExinEarn机器人](/mixin/2019/12/20/first-usage.html)
+

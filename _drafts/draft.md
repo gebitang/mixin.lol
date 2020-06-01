@@ -4,11 +4,6 @@ title:  "百字帖"
 categories: mixin
 ---
 
-每天一百字Mixin练习贴。
-
-Who What Why When Where
-
-Product Price Place Promotion
 
 初级
 
@@ -41,12 +36,5 @@ WhatsApp、FB Message
 Secure digital assets and messages on Mixin
 We build open source softwares that always put security, privacy and decentralization at first.
 
-考虑一条链上存放的数据的价值有多大。
-
-记录一下线上的价值每周的变化
-
-https://www.hellobtc.com/kp/kc/201904/1624.html
-
 
 硬钱包 VS Mixin方案对比思路
-
