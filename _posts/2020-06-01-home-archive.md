@@ -33,3 +33,37 @@ Mixin以聊天软件入手，自带默认的金融属性，这个起手式就很
 
 Practice Patience Persistence
 
+
+### archive 200601
+
+
+更新首页测试
+
+测试第二行
+
+emtpy
+
+why
+
+gogogo
+
+test again
+
+do it again
+
+hello
+
+ppp
+
+practice
+
+patience
+
+persistence
+
+gggg
+
+jjjj
+
+
+
