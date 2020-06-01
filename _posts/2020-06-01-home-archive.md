@@ -30,3 +30,6 @@ Mixin以聊天软件入手，自带默认的金融属性，这个起手式就很
 
 今天只讨论Mixin上一个服务提供商：ExinEarn。推荐你看看[为什么用密信之ExinEarn机器人](/mixin/2019/12/20/first-usage.html)
 
+
+Practice Patience Persistence
+
