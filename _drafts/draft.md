@@ -38,3 +38,7 @@ We build open source softwares that always put security, privacy and decentraliz
 
 
 硬钱包 VS Mixin方案对比思路
+
+
+私密聊天用密信
+Mixin Message, Secret Message
