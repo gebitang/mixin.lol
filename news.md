@@ -523,4 +523,10 @@ RVN 主要特点是在比特币源码基础上修改增加 X16R 算法防止 ASI
 |26|TRON|<img src="https://mixin-images.zeromesh.net/SXfRh0WJZpHrDAbBItuwwLp_TPML7hrbAPHGIz_EQRga0fFm5yGtNd55_W0ZZv9HRj_6W6kE4O4tq8W78mutAPE=s128" alt="TRON" title="TRON">|
 |27|VCash|<img src="https://mixin-images.zeromesh.net/OzfqNm0HPcHmqQOlkGGU5GoaAI3EznfbALmDBOZJdl2lDhlkNMVFDIC_CUsaeHEfyIeYT7A6vNLSR-MyqpnaBlY=s128" alt="VCash" title="VCash">|
 |28|Zcash|<img src="https://mixin-images.zeromesh.net/9QWOYgcD0H7q1cH6PaSM08FQ549epnEzqIQ2EgEfK2s82jhsIu1wDKmsR7rkPFwjIYKOILteq7mW1hIaXcy4DhI=s128" alt="Zcash" title="Zcash">|
+|29|NMC|<img src="https://mixin-images.zeromesh.net/UtlEMoi7t6Q9p99oJ2KNLnMjajCrxdPanUJVw7_Emq4_G7fGsFhyWBQljFTrCFe-STHq3fsyt1asO78AtrD2ci4=s128" alt="NMC" title="Namecoin">|
+
+
+**2020-08-29** 【公链支持】Mixin Network 现已支持第 29 条公链 Namecoin ，代币 NMC（域名币）。Namecoin 是一个去中心化的域名系统，功能和传统的域名供应商类似，用来解析域名。NMC 是比特币第一个分叉币，可与比特币合并挖矿。
+
+
 
