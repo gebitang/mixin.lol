@@ -13,9 +13,9 @@ permalink: /download
 - [直接下载Android Apk](https://newbie.zeromesh.net/mixin-android.apk)
 - 进入[官方github提供的最新版本](https://github.com/MixinNetwork/android-app/releases/latest)页面，直接下载
 - 上面的页面打不开的话，可以到[exin.one页面](https://download.exin.one/#/?id=android)获取最新版本，该页面与官方版本保持同步
-- [应用宝](https://android.myapp.com/myapp/detail.htm?apkName=one.mixin.messenger)  
+- [~~应用宝被下架~~](https://android.myapp.com/myapp/detail.htm?apkName=one.mixin.messenger) 
 - [google play](https://play.google.com/store/apps/details?id=one.mixin.messenger)  
-- [Mixin Messenger（畅聊版）](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019)  
+- [~~Mixin Messenger（畅聊版）被下架~~](https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019)  
 - [美区Apple](https://apps.apple.com/us/app/mixin-messenger/id1322324266)  
 
 1. [Mac桌面版下载](https://newbie.zeromesh.net/mixin-mac.dmg)  
@@ -27,9 +27,11 @@ permalink: /download
 
 #### Android
 
-##### 应用宝
-国内Android用户：
-{% include image.html url="/assets/about/MM_YYB.png" description="应用宝" link="https://android.myapp.com/myapp/detail.htm?apkName=one.mixin.messenger" %}
+~~应用宝下架~~
+
+官网更新：https://mixin-www.zeromesh.net/messenger
+APK 下载：https://download.exin.one （Exin 提供）
+已安装用户可以给客服机器人发送“下载”获取最新APK版本
 
 --- 
 
@@ -44,11 +46,7 @@ permalink: /download
 
 #### iOS
 
-##### CN Apple
-国内Apple用户：
-{% include image.html url="/assets/about/MM_Apple_CN.png" description="iOS畅聊版" link="https://apps.apple.com/cn/app/mixin-%E5%AF%86%E4%BF%A1%E7%95%85%E8%81%8A%E7%89%88/id1457938019" %}
-
---- 
+~~国内畅聊版本也被下架~~
 
 ##### US Apple
 使用美区ID注册的Apple用户：
