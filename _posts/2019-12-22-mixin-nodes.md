@@ -5,7 +5,7 @@ date:   2019-12-25 09:09:09 +0800
 author: Mixin.lol
 categories: mixin
 permalink: /nodes
-pinned: true
+pinned: false
 ---
 
 欢迎Mixin上线两周年。
