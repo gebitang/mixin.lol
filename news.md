@@ -614,3 +614,7 @@ Filecoin是一个去中心化分布式存储网络，基于 IPFS 协议，同时
 
 
 **2020-10-22**【主网信息】Mixin Network 第 35 个全节点 2020-10-22 凌晨已正式加入主网
+
+**2020-11-05**【Mixin 公告】Bitcoin Cash (BCH) 将于 2020 年 11 月 15 日 进行硬分叉，在分叉前 Mixin 将运行 Bitcoin Cash Node（BCHN） 节点方案，一旦硬分叉完成，Mixin 将不支持 BCH ABC 分叉币的发送和接收。
+
+**2020-11-06**【公链支持】Mixin Network 现已支持第 32 条公链 Polkadot，支持代币 DOT。Polkadot 是一个可扩展的异构多链区块链，旨在协助跨链通信和互操作，由一条中继链主链和多条平行链组成，平行链可以是基于 Substrate 构建的区块链，也可以通过 Bridges 连接外部区块链，比如比特币和以太坊等。
