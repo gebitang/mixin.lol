@@ -17,6 +17,10 @@ Mixin做为二级网络，到底在网络内沉淀了多少的区块链资产，
 
 追踪全年变化趋势，每周六发布。 
 
+- 从第42周开始，出现**LP Token**类资产后，统计的总值就不准确。第52周修复这一问题。
+- 可以通过API直接查看网络中的Top资产，参考[GET /network/assets/top](https://developers.mixin.one/document/wallet/api/network/top-assets)
+- 后续(自2021年开始)使用API调用进行汇总
+
 --- 
 
 ### 2020 week01
@@ -1615,4 +1619,62 @@ Mixin做为二级网络，到底在网络内沉淀了多少的区块链资产，
 |BCH|Bitcoin Cash|2428.0|262.59|417.40|
 |SC|Siacoin|1.91861184E8|0.00313276|393.49|
 
+
+### 2020 week51
+
+@2020-12-18 08:00:20 美元汇率:**6.5332**
+
+- 总值: **796134066414.20**万(RMB)
+- Xin值: **48267.67**万(RMB)
+- 余值: **796134018146.53**万(RMB)
+
+|symbol|name|number|price($)|value(w)|
+|---------|---------|---------|---------|---------|
+|BTC|Bitcoin|7678.0|22803.0|114384.20|
+|BOX|BOX Token|1.99899257E8|2.851248|372367.80|
+|XIN|Mixin|520983.0|141.81|48267.67|
+|EOS|EOS|4817242.0|3.05|9598.96|
+|ETH|Ether|21756.0|644.32|9158.13|
+|USDT|Tether USD|5920304.0|1.0|3867.85|
+|EOS-BTC|ExinSwap EOS(EOS)-BTC(Bitcoin) LP Token|1.0E11|530.6289|34667045898.44|
+|ETH-BTC|ExinSwap ETH(Ether)-BTC(Bitcoin) LP Token|1.0E11|7657.027|500248867187.50|
+|USDT-BTC|ExinSwap USDT(Ether)-BTC(Bitcoin) LP Token|1.0E11|303.43372|19823930664.06|
+|BTC-XIN|ExinSwap BTC(Bitcoin)-XIN(Ether) LP Token|1.0E11|3649.4636|238426757812.50|
+|LTC|Litecoin|18268.0|101.81|1215.09|
+|PRS|PressOne Token|1.12833491E8|0.01441969|1062.97|
+|ZEC|Zcash|21655.0|74.38|1052.30|
+|ONE|BigONE Token|5.97510598E8|0.002218|865.83|
+|EOS-XIN|ExinSwap EOS(EOS)-XIN(Ether) LP Token|1.0E11|41.75538|2727962341.31|
+|sBTC-XIN|4swap LP Token BTC-XIN|1.0E8|3615.388|236200507.81|
+|sEOS-XIN|4swap LP Token EOS-XIN|1.0E8|41.92135|2738805.54|
+|BCH|Bitcoin Cash|2320.0|310.65|470.85|
+|USDC|USD//C|675059.0|1.0|441.03|
+|SC|Siacoin|1.91861184E8|0.003545|444.35|
+
+### 2020 week52
+
+@2020-12-26 17:31:30 美元汇率:**6.5418**
+
+- 总值: **228366.79**万(RMB)
+- Xin值: **45939.60**万(RMB)
+- 余值: **182427.19**万(RMB)
+
+|symbol|name|number|price($)|value(w)|
+|---------|---------|---------|---------|---------|
+|BTC|Bitcoin|9015.0|24832.0|146445.05|
+|XIN|Mixin|524065.0|134.0|45939.60|
+|ETH|Ether|28698.0|624.28|11720.02|
+|EOS|EOS|5360675.0|2.59|9082.73|
+|USDT|Tether USD|1.2471907E7|1.0|8158.87|
+|LTC|Litecoin|15303.0|128.62|1287.60|
+|ZEC|Zcash|23068.0|65.17|983.46|
+|PRS|PressOne Token|1.12797427E8|0.01162061|857.48|
+|ONE|BigONE Token|5.98918372E8|0.002071|811.42|
+|USDC|USD//C|1225287.0|1.0|801.56|
+|USDT|Tether USD|1050576.0|1.0|687.27|
+|BCH|Bitcoin Cash|2346.0|318.46|488.74|
+|SC|Siacoin|1.91860144E8|0.00313657|393.67|
+|USDT|Tether USD|459563.0|1.0|300.64|
+|XMR|Monero|2029.0|160.69|213.29|
+|DOT|Polkadot|57659.0|5.18|195.39|
 
