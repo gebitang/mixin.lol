@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Top20 资产价值追踪"
+title:  "Top30 资产价值追踪"
 date:   2020-01-04 16:16:16 +0800
 categories: mixin
 permalink: /assets
@@ -17,9 +17,10 @@ Mixin做为二级网络，到底在网络内沉淀了多少的区块链资产，
 
 追踪全年变化趋势，每周六发布。 
 
+- wk52之前通过网页获取Top20资产
 - 从第42周开始，出现**LP Token**类资产后，统计的总值就不准确。第52周修复这一问题。
 - 可以通过API直接查看网络中的Top资产，参考[GET /network/assets/top](https://developers.mixin.one/document/wallet/api/network/top-assets)
-- 后续(自2021年开始)使用API调用进行汇总
+- 从wk52/2020-12-26/2021年开始使用API调用进行汇总，提供Top30资产
 
 --- 
 
@@ -1677,4 +1678,48 @@ Mixin做为二级网络，到底在网络内沉淀了多少的区块链资产，
 |USDT|Tether USD|459563.0|1.0|300.64|
 |XMR|Monero|2029.0|160.69|213.29|
 |DOT|Polkadot|57659.0|5.18|195.39|
+
+
+### 2020 week52新格式
+
+新格式示例——
+
+@2020-12-26 21:05:59 美元汇率:**6.5417995** 
+
+- 总值:	**248800.96**万(RMB) 
+- Xin值:	**46289.29**万(RMB)
+- 余值:	**202511.67**万(RMB)
+
+|symbol|name|number|price($)|value(w)|
+|---------|---------|---------|---------|---------|
+|BTC|Bitcoin|9056.0|24930.0|147691.64|
+|BOX|BOX Token|3.3265624E7|2.992516|65122.25|
+|XIN|Mixin|524065.0|135.02|46289.29|
+|ETH|Ether|28756.0|625.97|11775.50|
+|EOS|EOS|5411884.0|2.61|9240.30|
+|USDT|Tether USD|1.2454667E7|1.0|8147.59|
+|pUSD|Pando USD|6000000.0|1.0|3925.08|
+|sBTC-pUSD|4swap LP Token BTC-pUSD|18510.0|315.64084|3822.05|
+|EOS-BTC|ExinSwap EOS(EOS)-BTC(Bitcoin) LP Token|8596.0|513.26526|2886.26|
+|ETH-BTC|ExinSwap ETH(Ether)-BTC(Bitcoin) LP Token|354.0|7914.2373|1832.78|
+|LTC|Litecoin|15516.0|130.29|1322.48|
+|BTC-XIN|ExinSwap BTC(Bitcoin)-XIN(Ether) LP Token|543.0|3699.7559|1314.23|
+|USDT-BTC|ExinSwap USDT(Ether)-BTC(Bitcoin) LP Token|6275.0|317.46716|1303.20|
+|ZEC|Zcash|23089.0|65.42|988.13|
+|PRS|PressOne Token|1.12797424E8|0.0117027|863.54|
+|ONE|BigONE Token|5.989184E8|0.002058|806.33|
+|USDC|USD//C|1225287.0|1.0|801.56|
+|sBTC-XIN|4swap LP Token BTC-XIN|289.0|3702.7437|700.03|
+|sEOS-pUSD|4swap LP Token EOS-pUSD|328771.0|3.2321398|695.15|
+|USDT|Tether USD|1035006.0|1.0|677.08|
+|EOS-XIN|ExinSwap EOS(EOS)-XIN(Ether) LP Token|26276.0|37.850452|650.62|
+|sEOS-XIN|4swap LP Token EOS-XIN|21420.0|37.74081|528.84|
+|BCH|Bitcoin Cash|2346.0|318.91|489.43|
+|sUSDT-pUSD|4swap LP Token USDT-pUSD|361533.0|2.0006762|473.18|
+|SC|Siacoin|1.91860144E8|0.003176|398.62|
+|USDT|Tether USD|459563.0|1.0|300.64|
+|sONE-XIN|4swap LP Token ONE-XIN|342821.0|1.0571157|237.08|
+|sETH-XIN|4swap LP Token ETH-XIN|598.0|582.58966|227.91|
+|XMR|Monero|2030.0|164.26|218.13|
+|DOT|Polkadot|57560.0|5.16|194.30|
 
