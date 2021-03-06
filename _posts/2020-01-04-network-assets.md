@@ -3,7 +3,8 @@ layout: post
 title:  "Top30 资产价值追踪"
 date:   2020-01-04 16:16:16 +0800
 categories: mixin
-permalink: /assets
+
+
 ---
 
 * ignore this line 
