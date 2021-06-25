@@ -8,16 +8,77 @@ permalink: /nodes
 pinned: false
 ---
 
+* 
+{:toc}
+
+### 节点列表 2021
+
+截止2021年06月25日，目前节点37个。节点信息参考[mixin.space](https://mixin.space/)
+
+
+|nodes|地理位置|运营商|
+|---------|---------|---------|
+|node-okashi.mixin.fan|美国爱荷华州康瑟尔布拉夫斯|cloud.google.com|
+|node-fes.f1ex.io|美国爱荷华州康瑟尔布拉夫斯|cloud.google.com|
+|node-42.f1ex.io|美国爱荷华州康瑟尔布拉夫斯|cloud.google.com|
+|mixin-node2.exinpool.com|美国加利福尼亚州旧金山|amazon.com|
+|mixin-node1.exinpool.com|美国俄勒冈州波特兰|amazon.com|
+|mixin-node-07.b1.run|美国俄勒冈州达尔斯|cloud.google.com|
+|mixin-node-05.b1.run|美国俄勒冈州达尔斯|cloud.google.com|
+|mixin-node-04.b1.run|美国俄勒冈州达尔斯|cloud.google.com|
+|mixin-node-03.b1.run|美国俄勒冈州达尔斯|cloud.google.com|
+|mixin-node-02.b1.run|美国俄勒冈州达尔斯|cloud.google.com|
+|mixin-node-01.b1.run|美国俄勒冈州达尔斯|cloud.google.com|
+|mixin-node-03.b.watch|美国爱荷华州康瑟尔布拉夫斯|cloud.google.com|
+|mixin-node-02.b.watch|美国爱荷华州康瑟尔布拉夫斯|cloud.google.com|
+|mixin-node-01.b.watch|美国爱荷华州康瑟尔布拉夫斯|cloud.google.com|
+|mixin-node0.exinpool.com|美国弗吉尼亚州阿什本|amazon.com|
+|mixin-node.poolin.com|美国弗吉尼亚州斯特灵|aliyun.com|
+|lehigh-2.hotot.org|美国爱荷华州康瑟尔布拉夫斯|cloud.google.com|
+|lehigh.hotot.org|美国爱荷华州康瑟尔布拉夫斯|cloud.google.com|
+|54.188.62.72|美国俄勒冈州波特兰|amazon.com|
+|54.176.121.235|美国加利福尼亚州旧金山|amazon.com|
+|44.242.167.156|美国俄勒冈州波特兰|amazon.com|
+|44.234.120.216|美国俄勒冈州波特兰|amazon.com|
+|44.233.85.154|美国俄勒冈州波特兰|amazon.com|
+|35.247.51.107|美国俄勒冈州达尔斯|cloud.google.com|
+|35.245.207.174|美国弗吉尼亚州阿什本|cloud.google.com|
+|35.233.138.56|美国俄勒冈州达尔斯|cloud.google.com|
+|35.227.72.6|美国南卡罗来纳州蒙克斯科纳|cloud.google.com|
+|35.188.242.130|美国弗吉尼亚州阿什本|cloud.google.com|
+|35.185.16.229|美国南卡罗来纳州蒙克斯科纳|cloud.google.com|
+|34.83.199.95|美国俄勒冈州达尔斯|cloud.google.com|
+|34.83.136.66|美国俄勒冈州达尔斯|cloud.google.com|
+|34.83.129.200|美国俄勒冈州达尔斯|cloud.google.com|
+|34.82.92.203|美国俄勒冈州达尔斯|cloud.google.com|
+|34.82.0.191|美国俄勒冈州达尔斯|cloud.google.com|
+|34.66.213.188|美国爱荷华州康瑟尔布拉夫斯|cloud.google.com|
+|3.15.58.214|美国俄亥俄州都柏林 |amazon.com|
+|13.52.220.35|美国加利福尼亚州旧金山|amazon.com|
+
+
+### Map on Google 2021
+
+下图使用google map展示了**37**个位置的详细信息，如果你看不到，推荐[AgentNEO](https://agneo.co/?rc=8d50vj3e)这个工具科学上网。
+
+
+<div id="map2021" style="height: 400px; width: 800px;"></div>
+
+交互版本看不到的话，这是一个静态压缩版本——
+
+![](https://s3-img.meituan.net/v1/mss_3d027b52ec5a4d589e68050845611e68/ff/n0/0m/jh/e3_255011.jpg)
+
+--- 
+
+<p></p>
 欢迎Mixin上线两周年。
 
 根据[源码nodes.json](https://github.com/MixinNetwork/mixin/blob/master/config/nodes.json)内容，整理了目前Mixin在线运行的**31**个节点信息。（截止到2019-12-25日）
 
 【主网信息】Mixin Network 第 32 个全节点 2020-01-20 凌晨已正式加入主网
 
-* 
-{:toc}
 
-### 节点列表 
+### 节点列表 2019 
 
 |host|ip|address|
 |---------|---------|---------|
@@ -109,4 +170,6 @@ pinned: false
 
 下图使用google map展示了第一个表中的**12**个位置的详细信息，如果你看不到，推荐[AgentNEO](https://agneo.co/?rc=8d50vj3e)这个工具。
 
-### Map on Google
+### Map on Google 2019
+
+<div id="map" style="height: 400px; width: 800px;"></div>
