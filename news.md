@@ -802,3 +802,5 @@ MobileCoin 专注于为移动通讯应⽤程序提供安全、隐私、极简的
 **2021-07-15** 【公链支持】Mixin Network 现已支持第 37 条公链 Algorand，支持代币 ALGO。Algorand 是一个 PoS 公链，致力于解决“区块链不可能三角”（可扩展、安全性、去中心化），项目创始人是图灵奖得主、MIT CSAIL 实验室的 Silvio Micali 教授。
 
 **2021-09-05** 【公链支持】Mixin Network 现已支持第 38 条公链 Akash Network，支持代币 AKT。Akash Network 是一个开源的去中心化云平台，为区块链、机器学习和人工智能等行业提供快速、高效、低成本的应用部署解决方案，Akash Network 使用 Cosmos SDK 构建。
+
+**2021-09-06** 【公链支持】Mixin Network 现已支持第 39 条公链 Avalanche 雪崩协议的 X-Chain 交易链，支持代币 AVAX。Avalanche Network（雪崩协议）是一个开源的为 DeFi 设计的区块链平台，具备高吞吐、低延迟、快速结算和扩展性强的特点，智能合约可在 1 秒内确认，并且支持全套以太坊开发工具包，支持百万独立验证者作为矿工参与。
